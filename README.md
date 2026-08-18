@@ -1,5 +1,5 @@
 ##jabora tentar aprender a fazer algo?Tentando aprender algo 👋
-      <img width="162" height="91" alt="image" src="https://github.com/user-attachments/assets/f111ca35-1e8f-4ade-845f-5efc6463de44" />
+      
 
 
 <!--
