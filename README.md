@@ -1,7 +1,6 @@
 ##jabora tentar aprender a fazer algo?Tentando aprender algo 👋
-<<img width="162" height="124" alt="image" src="https://github.com/user-attachments/assets/ccf7bc32-9440-43e4-9907-548ebfc47135" />
-<img width="162" height="91" alt="image" src="https://github.com/user-attachments/assets/0a9d851f-d9dc-47bf-beec-a3b7ecdf2e6c" />
-<img width="162" height="91" alt="image" src="https://github.com/user-attachments/assets/c8d8280e-ca4f-4124-9fda-54805daf1ceb" />
+<img width="162" height="91" alt="image" src="https://github.com/user-attachments/assets/f111ca35-1e8f-4ade-845f-5efc6463de44" />
+
 
 <!--
 **gabrielkkj14/gabrielkkj14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
