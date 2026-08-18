@@ -1,4 +1,4 @@
-jabora tentar aprender a fazer algo?Tentando aprender algo 👋
+Tentando aprender algo de TI
       
 
 <img width="162" height="91" alt="image" src="https://github.com/user-attachments/assets/a7c56b3c-3967-4022-bc85-3c3528ae0652" />    
