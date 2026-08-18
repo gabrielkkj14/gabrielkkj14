@@ -1,5 +1,6 @@
 ## Jabora,aprender a programa 👋
 <img width="162" height="92" alt="image" src="https://github.com/user-attachments/assets/c0580247-74bc-400a-9072-ad3c77637624" />
+<img width="140" height="140" alt="image" src="https://github.com/user-attachments/assets/5a9995fb-720d-4f03-95b5-a08a32cfce58" />
 
 <!--
 **gabrielkkj14/gabrielkkj14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
