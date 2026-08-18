@@ -1,3 +1,4 @@
 Tentando aprender algo de TI
 
-<img width="562" height="391" alt="image" src="https://github.com/user-attachments/assets/edc89a62-a9bf-4181-8080-f6444afd632a" />
+<img width="1080" height="606" alt="image" src="https://github.com/user-attachments/assets/2b7fe450-2ae0-49a3-88c4-48c8a89c854d" />
+
