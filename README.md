@@ -1,4 +1,4 @@
-## Hi there 👋
+## Jabora,aprender a programa 👋
 <img width="162" height="92" alt="image" src="https://github.com/user-attachments/assets/c0580247-74bc-400a-9072-ad3c77637624" />
 
 <!--
